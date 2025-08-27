@@ -9,8 +9,9 @@
 <br>
 <h3>Projeto:</h3>
 <img src="https://github.com/GabrielSNasc/Aula-javascript-devclub-full-stack/blob/main/java%20part-3/Projeto%20Random/assets/Random.png?raw=true" alt="foto-do-projeto">
-<p>Esse projeto sorteia números aleatórios, ao escrever o número na caixa entre e na caixa e.</p>
-<p>Depois e só apertar no botão 'Sortear', EXEMPLO:</p>
+<p>Projeto de Sorteio de Números</p>
+<p>Este projeto gera números aleatórios dentro de um intervalo definido pelo usuário. Basta digitar o número inicial na primeira caixa e o número final na segunda. Em seguida, é só clicar no botão "Sortear" para obter um número aleatório dentro desse intervalo.</p>
+<p>Exemplo:</p>
 <img src="https://github.com/GabrielSNasc/Aula-javascript-devclub-full-stack/blob/main/java%20part-3/Projeto%20Random/assets/Random-Exemplo.png?raw=true" alt="exemplo-do-sorteio">
 <br>
 <br>
